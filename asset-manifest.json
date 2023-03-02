@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Windows-playground-apps/static/css/main.f87db60f.css",
+    "main.js": "/Windows-playground-apps/static/js/main.6aedee8c.js",
+    "static/js/496.0320d045.chunk.js": "/Windows-playground-apps/static/js/496.0320d045.chunk.js",
+    "index.html": "/Windows-playground-apps/index.html",
+    "main.f87db60f.css.map": "/Windows-playground-apps/static/css/main.f87db60f.css.map",
+    "main.6aedee8c.js.map": "/Windows-playground-apps/static/js/main.6aedee8c.js.map",
+    "496.0320d045.chunk.js.map": "/Windows-playground-apps/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87db60f.css",
+    "static/js/main.6aedee8c.js"
+  ]
+}
