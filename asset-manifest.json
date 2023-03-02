@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Windows-playground-apps/static/css/main.fd40f0f9.css",
+    "main.css": "/Windows-playground-apps/static/css/main.6b6c6bc5.css",
     "main.js": "/Windows-playground-apps/static/js/main.a3fb19db.js",
     "static/media/family-1007.jpg": "/Windows-playground-apps/static/media/family-1007.687b2820f6b0ccdca3de.jpg",
     "index.html": "/Windows-playground-apps/index.html",
-    "main.fd40f0f9.css.map": "/Windows-playground-apps/static/css/main.fd40f0f9.css.map",
+    "main.6b6c6bc5.css.map": "/Windows-playground-apps/static/css/main.6b6c6bc5.css.map",
     "main.a3fb19db.js.map": "/Windows-playground-apps/static/js/main.a3fb19db.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd40f0f9.css",
+    "static/css/main.6b6c6bc5.css",
     "static/js/main.a3fb19db.js"
   ]
 }
