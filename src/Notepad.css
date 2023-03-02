@@ -14,6 +14,7 @@
 .app-header {
   height: 100vh;
   width: 100%;
+  left: -100%;
 }
 
 .headerbar {
