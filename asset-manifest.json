@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/Windows-playground-apps/static/css/main.f87db60f.css",
-    "main.js": "/Windows-playground-apps/static/js/main.6aedee8c.js",
-    "static/js/496.0320d045.chunk.js": "/Windows-playground-apps/static/js/496.0320d045.chunk.js",
+    "main.css": "/Windows-playground-apps/static/css/main.724c9fbc.css",
+    "main.js": "/Windows-playground-apps/static/js/main.a3fb19db.js",
+    "static/media/family-1007.jpg": "/Windows-playground-apps/static/media/family-1007.687b2820f6b0ccdca3de.jpg",
     "index.html": "/Windows-playground-apps/index.html",
-    "main.f87db60f.css.map": "/Windows-playground-apps/static/css/main.f87db60f.css.map",
-    "main.6aedee8c.js.map": "/Windows-playground-apps/static/js/main.6aedee8c.js.map",
-    "496.0320d045.chunk.js.map": "/Windows-playground-apps/static/js/496.0320d045.chunk.js.map"
+    "main.724c9fbc.css.map": "/Windows-playground-apps/static/css/main.724c9fbc.css.map",
+    "main.a3fb19db.js.map": "/Windows-playground-apps/static/js/main.a3fb19db.js.map"
   },
   "entrypoints": [
-    "static/css/main.f87db60f.css",
-    "static/js/main.6aedee8c.js"
+    "static/css/main.724c9fbc.css",
+    "static/js/main.a3fb19db.js"
   ]
 }
