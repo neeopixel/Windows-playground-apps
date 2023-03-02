@@ -18,7 +18,7 @@
 
 .headerbar {
   position: absolute;
-  width: 300px;
+  width: 600px;
   height: 70px;
   margin-bottom: 25px;
   overflow: visible;
@@ -30,7 +30,7 @@
 .Notepadparent {
   display: flex;
   position: absolute;
-  width: 300px;
+  width: 600px;
   height: 480px;
   border-radius: 20px;
   border: 2px solid rgb(100, 237, 123);
