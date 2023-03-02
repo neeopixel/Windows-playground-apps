@@ -1,7 +1,7 @@
 
 
 .Calculator {
-  position: relative;
+  position: absolute;
   text-align: center;
   white-space: nowrap;
   text-align: center;
@@ -11,9 +11,11 @@
   font-size: 30px;
   letter-spacing: 2px;
   align-items: center;
+  min-width: 100%;
 }
 .app-header{
   height: 100vh;
+  
 }
 
 .Numbers span {

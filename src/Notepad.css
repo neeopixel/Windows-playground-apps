@@ -1,7 +1,7 @@
 .Notepad {
-  position: relative;
+  display:block;
   text-align: center;
-  white-space: nowrap;
+  white-space: wrap;
   text-align: center;
   font-family: Poppins;
   font-style: normal;
@@ -9,11 +9,13 @@
   font-size: 30px;
   letter-spacing: 2px;
   align-items: center;
-  left: -60%;
+  left: -100%;
+  min-width: 100%;
 }
 
 .app-header {
   height: 100vh;
+  min-width: 100vh;
 }
 
 .headerbar {
